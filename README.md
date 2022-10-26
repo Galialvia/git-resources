@@ -34,6 +34,6 @@ Here is a git cheat sheet distributed by GitHub: <a href="https://github.github.
 
 Top 5 Free Courses to Learn Git and GitHub — Best of Lot: <a href="https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0">Free GitHub courses</a>
   
-
+If you are using a Mac and want to use the Terminal but do not have Git installed, you will need to download Git as well as create a personal access token. Instructions for this can be found here: <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Peronal Access Token</a>
 
 ### Techlahoma is a great resource for anyone who wants to break into tech! https://www.techlahoma.org/
